@@ -98,5 +98,6 @@ Flags fraud immediately, preventing losses in real-time.
 8. Supports Security Standards:
 Helps ensure compliance with industry regulations like PCI DSS.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## User Interface
+
+![image alt](https://github.com/SathishB-1/Credit-Card-Fraud-Detection/blob/2bc4c5fc01ca7d5706a32a916ec32db3b84b5bfb/UI-1.png)
